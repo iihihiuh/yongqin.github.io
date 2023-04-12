@@ -85,6 +85,7 @@ author:
   bio              : "PhD student @ University of Southern California"
   employer         :
   pubmed           : 
+  linkedin         : "https://www.linkedin.com/in/yongqw"
   googlescholar    : "https://scholar.google.com/citations?user=DEH7pxcAAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -100,7 +101,6 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
   orcid            : "https://orcid.org/0009-0005-5076-7706"
   pinterest        :
   soundcloud       :
