@@ -4,7 +4,7 @@ collection: teaching
 type: "Workshop"
 permalink: /teaching/2022-spring-ta-1
 venue: "University of Southern California"
-date: 2022-Spring
+date: 2022-01-08
 location: "Los Angeles, CA"
 ---
 
