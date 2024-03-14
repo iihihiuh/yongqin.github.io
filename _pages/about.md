@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: "Yongqin Wang"
+excerpt: "Yongqin Wang Homepage USC"
 author_profile: true
 redirect_from: 
   - /about/
