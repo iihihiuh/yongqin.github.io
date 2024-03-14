@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yongqin Wang's Research Website"
+title                    : "Yongqin Wang Homepage"
 title_separator          : "-"
 name                     : &name "Yongqin Wang"
-description              : &description "PhD student @ University of Southern California"
+description              : &description "PhD candidate @ University of Southern California"
 url                      : https://iihihiuh.github.io/yongqin.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/iihihiuh/yongqin.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Yongqin Wang"
   avatar           : "selfie.jpeg"
-  bio              : "PhD student @ University of Southern California"
+  bio              : "PhD candidate @ University of Southern California"
   employer         :
   pubmed           : 
   linkedin         : "yongqw"
