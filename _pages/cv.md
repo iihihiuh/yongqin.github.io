@@ -9,8 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-[PDF format](https://iihihiuh.github.io/yongqin.github.io//files/Yongqin_Wang_CV.docx.pdf)
-======
+* [PDF format](https://iihihiuh.github.io/yongqin.github.io//files/Yongqin_Wang_CV.docx.pdf)
+
 
 Education
 ======
