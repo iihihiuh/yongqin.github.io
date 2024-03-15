@@ -8,4 +8,4 @@ date: 2021-08-16
 location: "Los Angeles, CA"
 ---
 
-Led dicussion sections and developed final socket programming assignments
+Led dicussion sections and developed the final socket programming assignment.
