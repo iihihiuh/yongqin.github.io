@@ -9,7 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-## [CV in PDF format](/files/Yongqin_Wang_CV.docx.pdf)
+[PDF format](/files/Yongqin_Wang_CV.docx.pdf)
+======
 
 Education
 ======
