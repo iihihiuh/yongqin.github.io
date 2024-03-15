@@ -9,16 +9,18 @@ redirect_from:
 
 {% include base_path %}
 
+## [CV in PDF format](/files/Yongqin_Wang_CV.docx.pdf)
+
 Education
 ======
-* PhD candidate, August 2019 - current
-* M.S. in Electrical Engineering, University of Washington, 2019
+* Ph.D. candidate in Computer Engineering, University of Southern California
+* B.S. in Electrical Engineering, University of Washington, 2019
 
 Work experience
 ======
-* Summer & Fall: Research Intern
+* Summer & Fall 2021: Research Intern
   * Meta AI
-  * Supervisor: Hsien-Hsin S. Lee
+  * Supervisor: [Hsien-Hsin S. Lee](https://hsienhsinlee.github.io/)
 
 
 Publications
@@ -34,6 +36,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
    -->
+
 Service and leadership
 ======
 * Student volunteer for HPCA 2021
