@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Yongqin Wang Homepage"
 title_separator          : "-"
-name                     : &name "Yongqin Wang (王湧钦)"
+name                     : &name "Yongqin Wang"
 description              : &description "PhD candidate @ University of Southern California"
 url                      : https://iihihiuh.github.io/yongqin.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yongqin Wang"
+  name             : "Yongqin Wang (王湧钦)"
   avatar           : "selfie.jpeg"
   bio              : "PhD candidate @ University of Southern California"
   employer         :
