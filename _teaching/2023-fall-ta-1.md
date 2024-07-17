@@ -1,5 +1,5 @@
 ---
-title: "Teacher Assistant"
+title: "Teaching Assistant"
 collection: teaching
 type: "Workshop"
 permalink: /teaching/2022-spring-ta-1

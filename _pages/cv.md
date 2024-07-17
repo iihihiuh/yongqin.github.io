@@ -15,6 +15,7 @@ redirect_from:
 Education
 ======
 * Ph.D. candidate in Computer Engineering, University of Southern California
+* M.S. in Computer Engineering, University of Southern California, 2024
 * B.S. in Electrical Engineering, University of Washington, 2019
 
 Work experience
@@ -40,6 +41,7 @@ Publications
 
 Service and leadership
 ======
-* Student volunteer for HPCA 2021
-* Student volunteer for ISCA 2023
+* AE committee member for ASPLOS 2025
 * AE committee member for ISCA 2024
+* Student volunteer for ISCA 2023
+* Student volunteer for HPCA 2021
