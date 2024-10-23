@@ -24,7 +24,7 @@ I am a PhD candidate at the University of Southern California (USC) working with
 
 \* Equal contributions.
 
-# Pre-print
+# Pre-prints
 Fastrack: Fast IO for Secure ML using GPU TEEs, **Yongqin Wang**\*, Rachit Rajat\*, Jonghyun Lee, Tingting Tang, Murali Annavaram. \[[link](https://arxiv.org/abs/2410.15240)\]
 CompactTag: Minimizing Computation Overheads in Actively-Secure MPC for Deep Neural Networks, **Yongqin Wang**, Pratik Sarkar, Nishat Koti, Arpita Patra, Murali Annavaram. \[[link](https://eprint.iacr.org/2023/1729)\]
 PIGEON: A Framework for Private Inference of Neural Networks, Christopher Harth-Kitzerow, **Yongqin Wang**, Murali Annavaram. \[[link](https://eprint.iacr.org/2024/1371)\]
