@@ -19,6 +19,16 @@ I am a PhD candidate at the University of Southern California (USC) working with
 - **\[MICRO'22\]** Rachit Rajat, **Yongqin Wang**, Murali Annavaram, "PageORAM: An Efficient DRAM Page Aware ORAM Strategy". \[[link](https://iihihiuh.github.io/yongqin.github.io/publications/2022-10-01-pageoram)\]
 - **\[ISPASS'22\]** **Yongqin Wang**, Edward Suh, Wenjie Xiong, Benjamin Lefaudeux, Brian Knott, Murali Annavaram, Hsien-Hsin S. Lee "Characterization of MPC-based Private Inference for Transformer-based Models". \[[link](https://iihihiuh.github.io/yongqin.github.io/publications/2022-05-22-ispass)\]
 - **\[MICRO'21\]** Hanieh Hashemi, **Yongqin Wang**, Murali Annavaram, "DarKnight: An accelerated framework for privacy and integrity preserving deep learning using trusted hardware". \[[link](https://iihihiuh.github.io/yongqin.github.io/publications/2021-10-08-darknight)\]
+- **\[ICLR'21 Workshop\]** Hanieh Hashemi, **Yongqin Wang**, Murali Annavaram, "Byzantine-Robust and Privacy-Preserving Framework for FedML". \[[link](https://iihihiuh.github.io/yongqin.github.io/publications/2021-05-05-byzantine)\]
 - **\[CLOUD'21\]** Krishna Giri Narra, Zhifeng Lin, **Yongqin Wang**, Keshav Balasubramanian, Murali Annavaram, "Origami inference: Private inference using hardware enclaves". \[[link](https://iihihiuh.github.io/yongqin.github.io/publications/2021-09-05-origami)\]
+
+\* Equal contributions.
+
+# Pre-print
+**Yongqin Wang**\*, Rachit Rajat\*, Jonghyun Lee, Tingting Tang, Murali Annavaram, "Fastrack: Fast IO for Secure ML using GPU TEEs". \[[link](https://arxiv.org/abs/2410.15240)\]
+
+**Yongqin Wang**, Pratik Sarkar, Nishat Koti, Arpita Patra, Murali Annavaram, "CompactTag: Minimizing Computation Overheads in Actively-Secure MPC for Deep Neural Networks". \[[link](https://eprint.iacr.org/2023/1729)\]
+
+Christopher Harth-Kitzerow, **Yongqin Wang**, Murali Annavaram, "PIGEON: A Framework for Private Inference of Neural Networks". \[[link](https://eprint.iacr.org/2024/1371)\]
 
 \* Equal contributions.
