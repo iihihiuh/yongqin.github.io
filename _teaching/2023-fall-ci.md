@@ -7,5 +7,4 @@ venue: "University of Southern California"
 date: 2023-08-16
 location: "Los Angeles, CA"
 ---
-
 Taught 8 lectures on ML primitives, Trusted Execution Environments and Multi-party Computation.
