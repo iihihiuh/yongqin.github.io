@@ -1,5 +1,5 @@
 ---
-title: "Teaching Assistant"
+title: "Teaching Assistant for EE 450 Introduction to Computer Networks"
 collection: teaching
 type: "EE 450 Introduction to Computer Networks"
 permalink: /teaching/2021-fall-ta

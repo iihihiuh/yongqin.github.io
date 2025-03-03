@@ -1,5 +1,5 @@
 ---
-title: "Co-instructor"
+title: "Co-instructor for EE 508 Hardware Fundation of Machine Learning"
 collection: teaching
 type: "EE 508 Hardware Fundation of Machine Learning"
 permalink: /teaching/2023-fall-ci

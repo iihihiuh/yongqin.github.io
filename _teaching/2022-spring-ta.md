@@ -1,5 +1,5 @@
 ---
-title: "Teaching Assistant"
+title: "Teaching Assistant for EE 653 Advanced Topics in Microarchitecture"
 collection: teaching
 type: "EE 653 Advanced Topics in Microarchitecture"
 permalink: /teaching/2022-spring-ta

@@ -1,5 +1,5 @@
 ---
-title: "Teaching Assistant"
+title: "Teaching Assistant for EE 557 Computer Systems Architecture"
 collection: teaching
 type: "EE 557 Computer Systems Architecture"
 permalink: /teaching/2024-spring-ta

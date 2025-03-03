@@ -1,5 +1,5 @@
 ---
-title: "Co-instructor"
+title: "Co-instructor for EE 653 Advanced Topics in Microarchitecture"
 collection: teaching
 type: "EE 653 Advanced Topics in Microarchitecture"
 permalink: /teaching/2014-fall-ci
