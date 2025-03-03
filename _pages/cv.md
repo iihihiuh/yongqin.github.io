@@ -41,8 +41,12 @@ Teaching
 
 Service and leadership
 ======
-* Reviwer for HPCA 2025
+* Reviewer for HPCA 2025
 * AE committee member for ASPLOS 2025
 * AE committee member for ISCA 2024
 * Student volunteer for ISCA 2023
 * Student volunteer for HPCA 2021
+
+Inter-discipline activities:
+======
+* Reviewer for Journal of Geoenergy Science and Engineering
