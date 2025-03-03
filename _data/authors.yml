@@ -2,9 +2,8 @@
 
 Name Name:
   name        : "Yongqin Wang"
-  uri         : "http://name.com"
-  email       : "name@name.com"
-  bio         : "This is the first name."
-  avatar      : "bio-photo-2.jpg"
-  twitter     : "name"
-  google_plus : "Name"
+  uri         : "https://iihihiuh.github.io/yongqin.github.io//"
+  email       : "yongqin@usc.edu"
+  bio         : "Yongqin Wang is a PhD candidate at the University of Southern California (USC), advised by Prof. Murali Annavaram. His research focuses on privacy-preserving mechanisms for cloud computing, with a particular emphasis on Multi-Party Computation (MPC), Trusted Execution Environments (TEEs), and Oblivious RAM (ORAM). Yongqin approaches challenges in those techniques from both system and theoretical perspectives, developing innovative solutions to enhance efficiency and security. His work has been published in top-tier venues, including ASPLOS, ISCA, MICRO, and PETS. Before USC, Yongqin earned a Bachelor's degree in Electrical Engineering from the University of Washington in 2019."
+  avatar      : "selfie.jpeg"
+
