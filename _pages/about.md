@@ -28,7 +28,5 @@ I am a PhD candidate at the University of Southern California (USC) working with
 \* Equal contributions.
 
 # Pre-prints
-- **Yongqin Wang**\*, Rachit Rajat\*, Jonghyun Lee, Tingting Tang, Murali Annavaram, Fastrack: Fast IO for Secure ML using GPU TEEs. \[[link](https://arxiv.org/abs/2410.15240)\]
+- **Yongqin Wang**, Rachit Rajat, Jonghyun Lee, Tingting Tang, Murali Annavaram, Fastrack: Fast IO for Secure ML using GPU TEEs. \[[link](https://arxiv.org/abs/2410.15240)\]
 - **Yongqin Wang**, Pratik Sarkar, Nishat Koti, Arpita Patra, Murali Annavaram, CompactTag: Minimizing Computation Overheads in Actively-Secure MPC for Deep Neural Networks. \[[link](https://eprint.iacr.org/2023/1729)\]
-
-\* Equal contributions.
